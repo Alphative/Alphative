@@ -14,16 +14,11 @@ I focus on the engineering side of bioinformatics: processing raw sequencing dat
 | Languages | Python, Bash |
 | Data Analysis | Pandas, NumPy, SciPy, Scanpy |
 | Containerization | Docker |
-| Databases | SQL, SQLite |
-| Testing | pytest |
-| Version Control | Git |
-
-### In Progress (Capstone Development)
-| Category | Tools |
-|---|---|
 | Pipeline Orchestration | Nextflow |
 | Cloud Infrastructure | AWS (EC2, S3) |
 | CI/CD | GitHub Actions |
+| Testing | pytest |
+| Version Control | Git |
 
 ## What Sets Me Apart
 
@@ -31,11 +26,16 @@ I focus on the engineering side of bioinformatics: processing raw sequencing dat
 - Self-driven — building practical, well-documented projects independently to solve real-world data bottlenecks.
 - Remote-ready — EST/PST aligned, async-first, output-driven.
 
-## Currently Building
+## Projects
 
-- 🔬 Automated genomic pipeline (Nextflow + Docker + AWS)
-- 📊 Transcriptomics QC and data processing modules (Python)
+### ✅ [scRNA-seq Analysis Pipeline](https://github.com/Alphative/scrna-pipeline)
+Automated single-cell RNA sequencing pipeline with QC, normalization, and clustering.
+Nextflow · Docker · AWS · Python · pytest · GitHub Actions
+
+### 🔬 [Plant Variant Calling & GWAS Pipeline](https://github.com/Alphative/plant-variant-calling) *(In Progress)*
+NGS pipeline for variant calling and GWAS in Arabidopsis thaliana — identifying genomic loci associated with drought resistance.
+Nextflow · Docker · BWA · GATK · SnpEff · PLINK
 
 ## Let's Talk
 
-📧 ivanzpraca@gmail.com
+📧 [ivanzpraca@gmail.com](mailto:ivanzpraca@gmail.com)
