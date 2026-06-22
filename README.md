@@ -32,8 +32,8 @@ I focus on the engineering side of bioinformatics: processing raw sequencing dat
 Automated single-cell RNA sequencing pipeline with QC, normalization, and clustering.
 Nextflow · Docker · AWS · Python · pytest · GitHub Actions
 
-### 🔬 [Plant Variant Calling & GWAS Pipeline](https://github.com/Alphative/plant-variant-calling) *(In Progress)*
-NGS pipeline for variant calling and GWAS in Arabidopsis thaliana — identifying genomic loci associated with drought resistance.
+### ✅ [Plant Variant Calling & GWAS Pipeline](https://github.com/Alphative/plant-variant-calling)
+NGS pipeline for variant calling and GWAS in Arabidopsis thaliana — identifying genomic loci associated with drought resistance. Validated end-to-end on real ENA sequencing data (1,014,387 variants called and QC-filtered).
 Nextflow · Docker · BWA · GATK · SnpEff · PLINK
 
 ## Let's Talk
