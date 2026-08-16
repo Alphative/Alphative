@@ -28,13 +28,15 @@ I focus on the engineering side of bioinformatics: processing raw sequencing dat
 
 ## Projects
 
-### ✅ [scRNA-seq Analysis Pipeline](https://github.com/Alphative/scrna-pipeline)
-Automated single-cell RNA sequencing pipeline with QC, normalization, and clustering.
-Nextflow · Docker · AWS · Python · pytest · GitHub Actions
+### 🌟 Featured: [Plant Variant Calling & GWAS Pipeline](https://github.com/Alphative/plant-variant-calling)
+Production-grade NGS pipeline for cohort variant calling & GWAS (*Arabidopsis thaliana*). Validated on real ENA data (1.01M+ QC-filtered variants).
+Nextflow DSL2 · AWS Batch · Terraform · Docker · GATK · PLINK · Python
 
-### ✅ [Plant Variant Calling & GWAS Pipeline](https://github.com/Alphative/plant-variant-calling)
-NGS pipeline for variant calling and GWAS in Arabidopsis thaliana — identifying genomic loci associated with drought resistance. Validated end-to-end on real ENA sequencing data (1,014,387 variants called and QC-filtered).
-Nextflow · Docker · BWA · GATK · SnpEff · PLINK
+---
+
+### [scRNA-seq Analysis Pipeline](https://github.com/Alphative/scrna-pipeline)
+End-to-end single-cell RNA sequencing pipeline for QC, normalization, and clustering.
+Nextflow · Docker · Python · pytest · GitHub Actions
 
 ## Let's Talk
 
